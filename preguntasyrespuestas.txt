@@ -1,0 +1,5 @@
+1,Cual es el mejor lenguaje de programación?,ruby
+2,Son las membranas movibles cubiertas de piel que resguardan los ojos,parpados
+3,Cual es el idioma oficial de Israel?,hebreo
+4,Cual es el mejor deporte?,natacion
+5,De donde se saca la leche?,vaca
